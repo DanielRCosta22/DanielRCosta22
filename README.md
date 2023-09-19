@@ -4,7 +4,7 @@ My name is Daniel Costa. Passionate about Hacking and with more than a decade of
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,arduino,py,powershell,cs,html,css,js,mysql,ae,pr" />
   </a>
 </p>
 
