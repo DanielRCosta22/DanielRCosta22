@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielRCosta22
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning CI/CD, Docker, Kubernetes, AWS and CyberSec.
+- 🌱 I’m currently learning CyberSec, AWS and Azure.
 - 💞️ I’m looking to collaborate on CyberOps
 - 📫 How to reach me: daniel.costa.ti@live.com
 
