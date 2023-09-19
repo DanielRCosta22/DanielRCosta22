@@ -1,4 +1,4 @@
-![App Screenshot](https://via.placeholder.com/468x300)
+![App Screenshot](https://github.com/DanielRCosta22/DanielRCosta22/blob/main/GitHub.png)
 ### Hi there 👋
 
 My name is Daniel Costa. Passionate about Hacking and with more than a decade of experience in IT, I have solid knowledge in Windows server administration, IT infrastructure, AWS Cloud, support and hardware, today I am self-employed and provide cybersecurity consultancy and solution architecture for small and medium enterprises.
