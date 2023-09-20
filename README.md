@@ -3,9 +3,8 @@
 
 My name is Daniel Costa. Passionate about Hacking and with more than a decade of experience in IT, I have solid knowledge in Windows server administration, IT infrastructure, AWS Cloud, support and hardware, today I am self-employed and provide cybersecurity consultancy and solution architecture for small and medium enterprises.
 
-- 👋 Hi, I’m @DanielRCosta22
-- 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning CyberSec, AWS and Azure.
+- 👀 I’m interested in SecDevOps
+- 🌱 I’m currently learning CyberSec (CompTIA Security+) and Azure Security (SC900).
 - 💞️ I’m looking to collaborate on CyberOps
 - 📫 How to reach me: daniel.costa.ti@live.com
 
@@ -13,7 +12,7 @@ My name is Daniel Costa. Passionate about Hacking and with more than a decade of
 ##  Language And Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,arduino,py,powershell,cs,html,css,js,mysql,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,py,powershell,cs,mysql,arduino,html,css,js,ae,pr" />
   </a>
 </p>
 
