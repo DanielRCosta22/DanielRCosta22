@@ -6,7 +6,7 @@ My name is Daniel Costa. Passionate about Hacking and with more than a decade of
 - 👀 I’m interested in SecDevOps
 - 🌱 I’m currently learning CyberSec (CompTIA Security+) and Azure Security (SC900).
 - 💞️ I’m looking to collaborate on CyberOps
-- 📫 How to reach me: daniel.costa.ti@live.com
+- 📫 How to reach me: <off>
 
 
 ##  Language And Tools
